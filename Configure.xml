@@ -1,0 +1,30 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="DogfoodDevMain">
+    <Product ID="ProPlus2024Volume" PIDKEY="2TDPW-NDQ7G-FMG99-DXQ7M-TX3T2">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="Teams" />
+    </Product>
+    <Product ID="ProjectPro2024Volume" PIDKEY="D9GTG-NP7DV-T6JP3-B6B62-JB89R">
+      <Language ID="en-us" />
+    </Product>
+    <Product ID="VisioPro2024Volume" PIDKEY="YW66X-NH62M-G6YFP-B7KCT-WXGKQ">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />
+  <Updates Enabled="TRUE" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+</Configuration>
+<!--  OInstallSetting Branch=1  -->
+<!--  OInstallSetting Office=0  -->
+<!--  OInstallSetting Arch=0  -->
+<!--  OInstallSetting Redact=2  -->
+<!--  OInstallSetting Product=0  -->
+<!--  OInstallSetting UseODT=0  -->
+<!--  OInstallSetting UseDarkTheme=0  -->
+<!--  OInstallSetting UseDarkThemeBackColor=37,37,37  -->
+<!--  OInstallSetting RunAsTI=0  -->
+<!--  OInstallSetting PATH=  -->
+<!--  Download Version=16.0.12527.22286  -->
+<!--  OInstallSetting Lang en-US  -->
